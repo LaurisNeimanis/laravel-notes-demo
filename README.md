@@ -123,7 +123,7 @@ routes/
 ├── web.php
 tests/Feature/
 ├──NotesCrudTest.php
-.github\workflows\
+.github/workflows/
 └──laravel-tests.yml
 ```
 
