@@ -1,10 +1,10 @@
 # Laravel Notes Demo  
-[![Laravel Tests](https://github.com/LaurisNeimanis/laravel-notes-demo/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/LaurisNeimanis/laravel-notes-demo/actions/workflows/laravel-tests.yml)  
-![Laravel](https://img.shields.io/badge/Laravel-12-red?logo=laravel)  
-![Livewire](https://img.shields.io/badge/Livewire-Volt-blue)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwind-css)  
-![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)  
-![MySQL](https://img.shields.io/badge/MySQL-Database-yellow?logo=mysql)  
+[![Laravel Tests](https://github.com/LaurisNeimanis/laravel-notes-demo/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/LaurisNeimanis/laravel-notes-demo/actions/workflows/laravel-tests.yml) 
+![Laravel](https://img.shields.io/badge/Laravel-12-red?logo=laravel)
+![Livewire](https://img.shields.io/badge/Livewire-Volt-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwind-css)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-Database-yellow?logo=mysql)
 
 A minimal **Laravel 12** application demonstrating how to create a simple **notes management system** with **authentication**, **Tailwind CSS**, and **Livewire (Volt Class API)**. Perfect for showcasing Laravel development skills, UI components, and modern front-end integrations.
 
