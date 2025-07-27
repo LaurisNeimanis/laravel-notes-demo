@@ -4,12 +4,14 @@ A minimal Laravel 12 application demonstrating how to create a simple notes mana
 
 ## Features
 
-- 🔹 Laravel 12 with Breeze authentication
-- 🔹 Dashboard and Notes pages using Blade components
-- 🔹 Livewire + Alpine.js integration
-- 🔹 Tailwind CSS for responsive UI
+- 🔹 Laravel 12 with Breeze authentication (email/password)
+- 🔹 Notes management with full CRUD using Livewire (Volt Class API)
+- 🔹 Reusable Blade components for form inputs and layout
+- 🔹 Tailwind CSS for responsive, modern UI
+- 🔹 Modal support for creating and editing notes
+- 🔹 Organized route groups with `auth` and `verified` middleware
+- 🔹 Demo user seeded for quick testing
 - 🔹 Dark mode ready classes
-- 🔹 Organized route groups with middleware (`auth`, `verified`)
 
 ## Getting Started
 
@@ -99,10 +101,10 @@ routes/
 
 ## Extend & Customize
 
-- Add full CRUD for notes with Livewire
-- Include database persistence
-- Add search and filtering functionality
-- Implement dark mode toggle with Alpine.js
+- Add search and filtering for notes
+- Implement pagination and sorting
+- Add dark mode toggle with Alpine.js
+- Enhance form validation and error messages
 
 ---
 
