@@ -99,17 +99,17 @@ README.md
 database/
 ├── seeders/
 │   └── DatabaseSeeder.php
-└── migrations/
-    └── 2025_07_27_162059_create_notes_table.php
+├── migrations/
+│   └── 2025_07_27_162059_create_notes_table.php
 app/
 ├── Models/
 │   └── Note.php
 ├── View/
 │   └── Components/
 │       └── TextArea.php
-└── Livewire/
-    └── Notes/
-        └── Manager.php
+├── Livewire/
+│   └── Notes/
+│       └── Manager.php
 resources/views/
 ├── notes.blade.php
 ├── components/
